@@ -3,9 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohmmedlshenawy&label=Profile%20views&color=0e75b6&style=flat" alt="mohmmedlshenawy" /> </p>
 <center>
-<p align="center">🔭 I’m currently working on <strong>My Portfolio</strong></p>
+<p align="center">🔭 I’m currently working on <strong>Windpile Website</strong></p>
 <p align="center">🌱 I’m currently learning <strong>Flutter and Firebase</strong></p>
-<p align="center">👯 I’m looking to collaborate on <strong>Projects, Tech Articles</strong></p>
+<p align="center">👯 I’m looking to collaborate on <strong>Tech Articles, YouTube Videos, and Projects</strong></p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
