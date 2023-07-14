@@ -16,10 +16,26 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <div align="center" style="display: inline-block; background-color: black; color: white; padding: 10px; border-radius: 5px; margin: 10px;">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+      <p align="center">Flutter</p>
+    </div>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <div align="center" style="display: inline-block; background-color: black; color: white; padding: 10px; border-radius: 5px; margin: 10px;">
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+      <p align="center">Dart</p>
+    </div>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <div align="center" style="display: inline-block; background-color: black; color: white; padding: 10px; border-radius: 5px; margin: 10px;">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+      <p align="center">Firebase</p>
+    </div>
+  </a>
 </p>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmmedlshenawy&show_icons=true&locale=en&layout=compact" alt="shenawydev" /></p>
 
