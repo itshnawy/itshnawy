@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">A passionate Front-End Web Developer from Egypt</h3>
+<h3 align="center">A Front-End Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itshnawy&label=Profile%20views&style=flat" alt="mohmmedlshenawy" /> </p>
 <center>
@@ -8,8 +8,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/mohammedlshnawy" target="blank">Twitter</a>
-  <a href="https://instagram.com/mohammedlshnawy" target="blank">Instagram</a>
+  <a href="https://twitter.com/mohammedlshnawy" target="blank">Twitter/X</a>
 </p>
 </center>
 
@@ -32,7 +31,3 @@
 </div>
 <br/>
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itshnawy&show_icons=true&locale=en&layout=compact&title_color=white&text_color=white&icon_color=white&bg_color=black" alt="shenawydev" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=itshnawy&show_icons=true&locale=en&title_color=white&text_color=white&icon_color=white&bg_color=black" alt="shenawydev" /></p>
