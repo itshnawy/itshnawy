@@ -1,9 +1,12 @@
 import { useState } from "react";
 
-function Form () {
+function Form ({onAddItems}) {
 
     const [name,setName] = useState('');
     const [quantity,setQuantity] = useState(1);
+
+
+
 
     function handleSubmit(e) {
     e.preventDefault();
@@ -15,7 +18,7 @@ function Form () {
         quantity,
         packed: false
     }
-    console.log(newItem)
+    onAddItems(newItem);
     setName('');
     setQuantity(1)
     }

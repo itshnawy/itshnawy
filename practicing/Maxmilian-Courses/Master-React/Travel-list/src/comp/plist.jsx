@@ -1,33 +1,20 @@
-const initItems = [
-    {
-        id: 1,
-        name: "item1",
-        quantity: 2,
-        packed: true
-    },
-    {
-        id: 2,
-        name: "item2",
-        quantity: 2,
-        packed: false
-    }
-];
 
-function Item({item}) {
+
+function Item({item, onDeleteItems}) {
     return <li key={item.id}><span style={item.packed ? {textDecoration:"line-through"} : {} }>
         {item.quantity} {" "}
         {item.name}
         </span>
-        <button >x</button>
+        <button onClick={() => onDeleteItems(item.id)} >x</button>
         </li>;
 }
 
-export default function List() {
+export default function List({items, onDeleteItems}) {
     return (
         <>
             <ul className="plist">
-                {initItems.map((item) => (
-                    <Item key={item.id} item={item} />
+                {items.map((item) => (
+                    <Item key={item.id} item={item} onDeleteItems={onDeleteItems} />
                 ))}
             </ul>
         </>
